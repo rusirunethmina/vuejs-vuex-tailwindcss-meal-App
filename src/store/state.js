@@ -1,3 +1,3 @@
 export default {
-    meals:["Salmon","rusiru"]
+    // meals:["Salmon","rusiru"]
 }
